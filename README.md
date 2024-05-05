@@ -29,13 +29,17 @@ As I start my new path in QA Engineering, I bring a passion for ensuring quality
 
 ## Education 
 
-[QA Engineer - GoIT](https://goit.global/pl/courses/qa/)   
+**QA Engineer - GoIT** | [site](https://goit.global/pl/courses/qa/)   
 - basic foundations and development of test documentation
 - test management
 - classification and stages of testing
 - testing techniques and tools
 - application architecture
 - working with databases
+
+
+**University WSB Merito Gdańsk**  
+*Engineer's degree, Computer Science - Computer Network Engineering* 
 
 ## Projects 
 
