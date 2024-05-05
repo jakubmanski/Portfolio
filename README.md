@@ -39,8 +39,8 @@ As I start my new path in QA Engineering, I bring a passion for ensuring quality
 
 ## Projects 
 
-SlimMoms | [documentation](https://docs.google.com/document/d/10AGU57z_zW-JNYFxe9nmbZARHY08VUIisCYo5Dl9Yc0/edit?usp=sharing) / [site](https://slimmoms-qa.netlify.app/)
-Manual testing of web aplication:
+**SlimMoms** | [documentation](https://docs.google.com/document/d/10AGU57z_zW-JNYFxe9nmbZARHY08VUIisCYo5Dl9Yc0/edit?usp=sharing) / [site](https://slimmoms-qa.netlify.app/)  
+*Manual testing of web aplication:*
 - create test cases 
 - execute checklist- based tests 
 - review requirements 
